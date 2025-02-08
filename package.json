@@ -1,0 +1,17 @@
+{
+  "name": "mnmmftdate",
+  "version": "1.0.0",
+  "description": "A little thingie for marisa to see when her mft app will be reviewed",
+  "main": "server.js",
+  "dependencies": {
+    "request": "^2.42.0",
+    "moment": "^2.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "exit 0",
+    "start": "node server.js"
+  },
+  "author": "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me/)",
+  "license": "ISC"
+}
